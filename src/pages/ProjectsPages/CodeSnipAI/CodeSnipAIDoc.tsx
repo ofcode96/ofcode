@@ -30,7 +30,7 @@ const CodeSnipAIDoc = () => {
                 <li>OS 64-bit.</li>
                 <li>1GB RAM minimum.</li>
                 <li>500MB free disk space.</li>
-                <li>Internet for AI .</li>
+                <li>Internet And Google Account Required for AI .</li>
               </ul>
             </div>
 
@@ -41,6 +41,9 @@ const CodeSnipAIDoc = () => {
               <ul className="list-decimal list-inside">
                 <li>Disable Antivirus Temporarily.</li>
                 <li>Download and install the app.</li>
+                <li>
+                  For AI Features to work Properly, Make sure to generate Gemini API Key <NavLink to ="https://youtu.be/6BRyynZkvf0?si=k9lV6MnwvMU9VA10" target="_blank" className="text-primary underline">Click Here</NavLink>
+                </li>
                 <li>Enjoy Code Snip AI!😎</li>
               </ul>
             </div>
