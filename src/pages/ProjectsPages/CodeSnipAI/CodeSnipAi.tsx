@@ -201,7 +201,7 @@ const CodeSnipAiFooter = () => {
                   <NavLink to="/" className="flex justify-center text-teal-300 sm:justify-start">
                      <img
                         className="rounded-full"
-                        src="../../../../public/of.svg"
+                        src="https://raw.githubusercontent.com/ofcode96/ofcode-assets/refs/heads/main/of.svg"
                         width="30"
                         height="30"
                         alt="ofCode"
