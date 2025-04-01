@@ -8,10 +8,11 @@ import CodeSnipAILanding from "@/pages/ProjectsPages/CodeSnipAI/CodeSnipAILandin
 import React from "react";
 
 import {
-   createBrowserRouter,
+  
+   createHashRouter as Router
 } from "react-router";
 
-export const router = createBrowserRouter([
+export const router = Router([
    {
       path: "/",
       Component: Home,
